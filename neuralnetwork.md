@@ -3,6 +3,8 @@
 
 **Reminder:** Programming Assignment Due Friday
 
+#
+
 ##### Give Quiz NN
 Allows model to have more flexibility
 
@@ -50,6 +52,8 @@ $$ f(z) = max(0,z) $$
 
 Different layers can have different activation functions.
 
+#
+
 ### Multi-Layered Perceptron (MLP) - K-way classification
 
 $x \in R^4$
@@ -83,6 +87,8 @@ $
 Output of a unit**
 
 **Note:** Neural networks are called as universal approximator.
+
+#
 
 ![](2020-03-04-13-40-57.png)
 
@@ -127,25 +133,4 @@ $$ w_1 = w_1 - \mu (-(y-w^T.x).x_1)$$
 
 In MLP, at each unit, find error using back propagation and multiply it with output...
 
-
 #
-##
-#
-####
-
-
-#
-##
-#
-####
-
-#
-##
-#
-####
-
-#
-##
-#
-####
-
